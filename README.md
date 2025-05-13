@@ -1,2 +1,2 @@
 # delta-demo
-This is a practice Oneee
+This is a practice Oneee.
